@@ -1,0 +1,39 @@
+body {
+    background-color: #f2f2f2;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+#picture0 {
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    box-shadow: 3px 3px 5px #888888;
+    display: block;
+    margin: 0 auto;
+}
+
+#picture1 {
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    box-shadow: 3px 3px 5px #888888;
+}
+
+.pass {
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    box-shadow: 3px 3px 5px #888888;
+    margin-right: 5px;
+}
